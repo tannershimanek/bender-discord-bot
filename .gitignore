@@ -1,0 +1,4 @@
+# Don't track the contents of these files
+secrets.py
+*.zip
+*.txt
